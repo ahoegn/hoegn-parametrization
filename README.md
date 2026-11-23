@@ -5,7 +5,7 @@
 
 ### Searching the DIABLO design matrix, and knowing when it pays off
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI)
+[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)]([https://doi.org/ZENODO_DOI](https://doi.org/10.5281/zenodo.24467883))
 [![Preregistration](https://img.shields.io/badge/OSF-preregistered-blue)](https://doi.org/10.17605/OSF.IO/EVTHG)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![R](https://img.shields.io/badge/R-4.6.1-276DC3?logo=r)
