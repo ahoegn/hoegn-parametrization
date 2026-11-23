@@ -1,11 +1,10 @@
-[README.md](https://github.com/user-attachments/files/35238525/README.md)
 <div align="center">
 
 # Hoegn Parametrization
 
 ### Searching the DIABLO design matrix, and knowing when it pays off
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)]([https://doi.org/ZENODO_DOI](https://doi.org/10.5281/zenodo.24467883))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24467883.svg)](https://doi.org/10.5281/zenodo.24467883)
 [![Preregistration](https://img.shields.io/badge/OSF-preregistered-blue)](https://doi.org/10.17605/OSF.IO/EVTHG)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![R](https://img.shields.io/badge/R-4.6.1-276DC3?logo=r)
@@ -129,8 +128,8 @@ If you use this code, please cite the paper and this archive:
   title   = {Hoegn Parametrization: searching the DIABLO design matrix},
   year    = {2026},
   version = {v1.0.0},
-  doi     = {ZENODO_DOI},
-  url     = {https://doi.org/ZENODO_DOI}
+  doi     = {10.5281/zenodo.24467883},
+  url     = {https://doi.org/10.5281/zenodo.24467883}
 }
 ```
 
